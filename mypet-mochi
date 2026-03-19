@@ -1,5 +1,22 @@
-{
+[{
   "pet_name": "Mochi",
-  "type": "Cat",
-  "age": 2
+  "type": "Female Cat",
+  "age": "2yrs",
+  "color": "White",
+  "character": "Quiet and Clever"
+},
+{
+  "pet_name": "Oreo",
+  "type": "Male Cat",
+  "age": "2yrs",
+  "color": "White & Black",
+  "character": "Extremely playful"
+},
+{
+  "pet_name": "Casper",
+  "type": "Male Cat",
+  "age": "2yrs",
+   "color": "White & Black",
+  "character": "Extremely playful"
 }
+]
