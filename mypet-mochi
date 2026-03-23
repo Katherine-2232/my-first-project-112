@@ -1,22 +1,25 @@
 [{
   "pet_name": "Mochi",
+  "Breed": "Feline Burmese Cat"
   "type": "Female Cat",
-  "age": "2yrs",
+  "age": "3months",
   "color": "White",
-  "character": "Quiet and Clever"
+  "character": "Quiet and Clever!"
 },
 {
   "pet_name": "Oreo",
-  "type": "Male Cat",
-  "age": "2yrs",
+  "Breed": "Feline Burmese Cat"
+  "type": "Female Cat",
+  "age": "3months",
   "color": "White & Black",
-  "character": "Extremely playful"
+  "character": "Playful eventhough she is a female."
 },
 {
   "pet_name": "Casper",
+  "Breed": "Feline Burmese Cat"
   "type": "Male Cat",
-  "age": "2yrs",
+  "age": "3months",
    "color": "White & Black",
-  "character": "Extremely playful"
+  "character": "Extremely playful."
 }
 ]
